@@ -1,4 +1,4 @@
-# Exploratory Data Analysis
+# Exploratory Data Analysis (by Devanshi Agrawal-Dsc task )
 This is a Jupyter notebook containing the code and analysis for Exploratory Data Analysis (EDA) of a dataset. The dataset includes the following variables:
 Name: the name of the student
 Age:age of name
